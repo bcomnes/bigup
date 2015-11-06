@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/bcomnes/bigup#readme",
   "dependencies": {
-    "minimist": "^1.2.0"
+    "cp": "^0.2.0",
+    "minimist": "^1.2.0",
+    "run-parallel": "^1.1.4",
+    "run-series": "^1.1.4",
+    "strum": "^2.0.1"
   },
   "devDependencies": {
     "standard": "^5.3.1",
